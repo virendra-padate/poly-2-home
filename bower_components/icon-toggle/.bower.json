@@ -1,0 +1,28 @@
+{
+  "name": "icon-toggle",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Polymer/element-tutorial",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "iron-icon": "PolymerElements/iron-icon#^2.0.0",
+    "iron-icons": "PolymerElements/iron-icons#^2.0.0"
+  },
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "c9f4bc4cb5c2ab58032d2248261392cfc9911613"
+  },
+  "_source": "https://github.com/virendra-padate/poly-2-element.git",
+  "_target": "^0.0.1",
+  "_originalSource": "virendra-padate/poly-2-element",
+  "_direct": true
+}
